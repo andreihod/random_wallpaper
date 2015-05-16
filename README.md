@@ -1,8 +1,14 @@
 # random_wallpaper
 
+Just a simple script to set a random wallpaper from "r/wallpaper"
+
 ## Instructions
 
-Just run the script:
+First, install the dependencies:
+
+`npm install`
+
+Then, just run the script:
 
 `node index.js`
 
