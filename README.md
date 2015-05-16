@@ -1,6 +1,6 @@
 # random_wallpaper
 
-Just a simple script to set a random wallpaper from "r/wallpaper"
+Just a simple script to set a random wallpaper from "r/wallpapers"
 
 ## Instructions
 

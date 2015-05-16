@@ -1,7 +1,7 @@
 {
   "name": "random_wallpaper",
   "version": "0.0.1",
-  "description": "Set a random wallpaper from r/wallpaper",
+  "description": "Set a random wallpaper from r/wallpapers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
