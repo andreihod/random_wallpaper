@@ -1,0 +1,23 @@
+{
+  "name": "random_wallpaper",
+  "version": "0.0.1",
+  "description": "Set a random wallpaper from r/wallpaper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wallpaper",
+    "reddit",
+    "r/wallpaper"
+  ],
+  "author": "Andrei Hodecker",
+  "license": "MIT",
+  "dependencies": {
+    "wallpaper": "^1.0.0",
+    "got": "^3.2.0",
+    "download": "^4.1.2",
+    "underscore": "^1.8.3",
+    "tmp": "0.0.26"
+  }
+}
